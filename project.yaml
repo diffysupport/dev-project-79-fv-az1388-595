@@ -1,5 +1,5 @@
 basic:
-    name: 'Auer, Tillman and Feil'
+    name: Weimann-Harber
     environments:
         production: 'https://google.com'
         staging: ''
